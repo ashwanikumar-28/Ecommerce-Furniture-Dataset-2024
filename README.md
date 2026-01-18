@@ -1,6 +1,6 @@
-# E-commerce Furniture Dataset 2024 📦🪑
+# E-commerce Furniture Dataset 2024
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing and predicting online furniture sales using data collected from an e-commerce platform (AliExpress).
 The goal is to understand how **price, shipping tags, and product titles** influence the number of items sold and to build machine learning models for sales prediction.
@@ -9,7 +9,7 @@ This project is created as part of an **internship / beginner-level data analyti
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze sales patterns of furniture products
 * Understand the relationship between price and number of items sold
@@ -18,7 +18,7 @@ This project is created as part of an **internship / beginner-level data analyti
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 * **File Name:** `ecommerce furniture dataset 2024.csv`
 * **Total Records:** 2000
@@ -32,7 +32,7 @@ This project is created as part of an **internship / beginner-level data analyti
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Pandas & NumPy
@@ -43,7 +43,7 @@ This project is created as part of an **internship / beginner-level data analyti
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 * Distribution of product prices
 * Distribution of items sold
@@ -52,7 +52,7 @@ This project is created as part of an **internship / beginner-level data analyti
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 * Cleaned price column by removing currency symbols
 * Encoded shipping tags (`Free shipping` vs `others`)
@@ -60,7 +60,7 @@ This project is created as part of an **internship / beginner-level data analyti
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 Two regression models were trained:
 
@@ -69,7 +69,7 @@ Two regression models were trained:
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 * **Evaluation Metrics:**
 
@@ -79,7 +79,7 @@ Two regression models were trained:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### 1️⃣ Install Required Libraries
 
@@ -95,7 +95,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Ecommerce-Furniture-Dataset-2024/
@@ -108,7 +108,7 @@ Ecommerce-Furniture-Dataset-2024/
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how data analytics and machine learning techniques can be applied to real-world e-commerce data.
 The insights from this analysis can help businesses make better **pricing, marketing, and logistics decisions**.
